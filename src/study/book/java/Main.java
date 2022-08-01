@@ -1,4 +1,4 @@
-package com.sooki;
+package study.book.java;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.sooki.ch13_Thread;
+package study.book.java.ch13_Thread;
 
 public class ThreadEx1 {
     public static void main(String[] args) {

@@ -1,13 +1,13 @@
-package com.sooki.ch13_Thread;
+package study.book.java.ch13_Thread;
 
-public class ThreadEx3 {
+public class ThreadEx2 {
     public static void main(String[] args) throws Exception{
-        ThreadEx3_1 t1 = new ThreadEx3_1();
-        t1.run();
+        ThreadEx2_1 t1 = new ThreadEx2_1();
+        t1.start();
     }
 }
 
-class ThreadEx3_1 extends Thread {
+class ThreadEx2_1 extends Thread {
     @Override
     public void run() {
         throwException();

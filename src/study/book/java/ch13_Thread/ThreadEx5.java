@@ -1,4 +1,4 @@
-package com.sooki.ch13_Thread;
+package study.book.java.ch13_Thread;
 
 /**
  * 멀티쓰레드일 때 소요시간

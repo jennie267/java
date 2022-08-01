@@ -1,4 +1,4 @@
-package com.sooki.ch13_Thread;
+package study.book.java.ch13_Thread;
 
 /**
  * 쓰레드의 우선순위
